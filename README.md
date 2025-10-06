@@ -21,8 +21,8 @@ The analysis focused on sales data for an online retail store. The main objectiv
 ---
 
 ## 📂 Files in this Repo
-- `Data visuals.twbx` → Final Tableau dashboard  
-- `/screenshots/` → Exported images of visuals and dashboard  
+- `Data_visuals.twbx` → Final Tableau dashboard  
+- `Time_Series_Analysis.png`,`Marketing_Channel_Insights.png`,`Customer_Segmentation.png`,`Demand_Map.png`,`DataVisuals-dashboard.png` → Exported images of visuals and dashboard  
 - `README.md` → Project documentation  
 
 ---
@@ -30,25 +30,29 @@ The analysis focused on sales data for an online retail store. The main objectiv
 ## 📈 Visuals Created
 
 ### **Q1 – Monthly Revenue Trends (2011)**
+  (Time_Series_Analysis.png) 
 - Time series chart showing revenue by month for 2011.
 - CEO can observe seasonal patterns for forecasting.
 
 ### **Q2 – Top 10 Countries (Excluding UK)**
+  (Marketing_Channel_Insights.png)
 - Bar chart showing revenue & quantity sold by country.
 - Highlights top revenue-generating countries.
 
 ### **Q3 – Top 10 Customers by Revenue**
+  (Customer_Segmentation.png)
 - Ranked bar chart (descending).
 - Helps CMO identify top customers for retention.
 
 ### **Q4 – Global Demand by Country (Excluding UK)**
+  (Demand_Map.png)
 - Map visualization showing demand across countries.
 - Provides expansion insights for CEO.
 
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](Data visuals-Dashboard.png)
+![Dashboard Screenshot](DataVisuals-dashboard.png)
 
 ---
 
